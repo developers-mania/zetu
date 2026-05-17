@@ -17,6 +17,9 @@
     "format": "prettier --write --experimental-cli src/"
   },
   "dependencies": {
+    "@vueuse/core": "^14.3.0",
+    "@zetu/shared": "workspace:*",
+    "axios": "^1.16.1",
     "pinia": "^3.0.4",
     "vue": "^3.5.32",
     "vue-router": "^5.0.4"
